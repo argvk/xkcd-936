@@ -1,0 +1,4 @@
+[package]
+name = "xkcd-936"
+version = "0.1.0"
+authors = ["Karthik <krthkv26@gmail.com>"]
